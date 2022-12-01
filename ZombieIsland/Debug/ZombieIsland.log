@@ -1,0 +1,20 @@
+﻿  Entity.cpp
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Main.cpp
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Main.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Main.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Main.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Main.cpp(250,22): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Trap.cpp
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Zombie.cpp
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Zombie.cpp(43,11): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Zombie.cpp(43,27): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Zombie.cpp(43,47): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\ZombieIsland\Zombie.cpp(43,63): warning C4804: '>': unsafe use of type 'bool' in operation
+  Generating Code...
+  ZombieIsland.vcxproj -> D:\University\C++ Programming for Game Developers\Assessments\Zombie Island\ZombieIsland\Debug\ZombieIsland.exe
